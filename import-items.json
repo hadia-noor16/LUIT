@@ -1,0 +1,235 @@
+{
+    "MovieCollection": [
+        {
+            "PutRequest": {
+                "Item": {
+		            "movie_id":{
+			            "S": "001"
+		             },
+                    "title":{
+                        "S": "Furiosa: A Mad Max Saga"
+                    },
+                    "release-date":{
+                        "S": "05-24-2024"
+                    },
+                    "rating":{
+                        "N": "7.9"
+                    },
+                    "genre":{
+                        "S": "Action"
+                    }
+                                        
+                }
+
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+		            "movie_id":{
+			            "S": "002"
+		            },
+                    "title":{
+                        "S": "Dune: Part Two"
+                    },
+                    "release-date":{
+                        "S": "03-01-2024"
+                    },
+                    "rating":{
+                        "N": "8.6"
+                    },
+                    "genre":{
+                        "S": "Action"
+                    }
+                                        
+                }
+
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+		            "movie_id":{
+			            "S": "003"
+		            },
+                    "title":{
+                        "S": "The Fall Guy"
+                    },
+                    "release-date":{
+                        "S": "05-03-2024"
+                    },
+                    "rating":{
+                        "N": "7.1"
+                    },
+                    "genre":{
+                        "S": "comedy"
+                    }
+                                        
+                }
+
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+		            "movie_id":{
+			            "S": "004"
+		            },
+                    "title":{
+                        "S": "Civil War"
+                    },
+                    "release-date":{
+                        "S": "04-12-2024"
+                    },
+                    "rating":{
+                        "N": "7.3"
+                    },
+                    "genre":{
+                        "S": "Thriller"
+                    }
+                                        
+                }
+
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+		            "movie_id":{
+			            "S": "005"
+		            },
+                    "title":{
+                        "S": "Challengers"
+                    },
+                    "release-date":{
+                        "S": "04-26-2024"
+                    },
+                    "rating":{
+                        "N": "7.4"
+                    },
+                    "genre":{
+                        "S": "Romance"
+                    }
+                                        
+                }
+
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+		            "movie_id":{
+			            "S": "006"
+		            },
+                    "title":{
+                        "S": "Godzilla x Kong: The New Empire"
+                    },
+                    "release-date":{
+                        "S": "03-29-2024"
+                    },
+                    "rating":{
+                        "N": "6.2"
+                    },
+                    "genre":{
+                        "S": "Adventure"
+                    }
+                                        
+                }
+
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+		            "movie_id":{
+			            "S": "007"
+		            },
+                    "title":{
+                        "S": "Road House"
+                    },
+                    "release-date":{
+                        "S": "03-21-2024"
+                    },
+                    "rating":{
+                        "N": "6.2"
+                    },
+                    "genre":{
+                        "S": "Thriller"
+                    }
+                                        
+                }
+
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+		            "movie_id":{
+			            "S": "008"
+		            },
+                    "title":{
+                        "S": "Boy Kills World"
+                    },
+                    "release-date":{
+                        "S": "04-26-2024"
+                    },
+                    "rating":{
+                        "N": "6.4"
+                    },
+                    "genre":{
+                        "S": "Crime"
+                    }
+                                        
+                }
+
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+		            "movie_id":{
+			            "S": "009"
+		            },
+                    "title":{
+                        "S": "Damsel"
+                    },
+                    "release-date":{
+                        "S": "03-08-2024"
+                    },
+                    "rating":{
+                        "N": "6.1"
+                    },
+                    "genre":{
+                        "S": "Action"
+                    }
+                                        
+                }
+
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+		            "movie_id":{
+			            "S": "010"
+		            },
+                    "title":{
+                        "S": "Rebel Moon - Part Two: The Scargiver"
+                    },
+                    "release-date":{
+                        "S": "04-19-2024"
+                    },
+                    "rating":{
+                        "N": "5.2"
+                    },
+                    "genre":{
+                        "S": "Adventure"
+                    }
+                                        
+                }
+
+            }
+        }
+
+    ]
+}
