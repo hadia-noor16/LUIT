@@ -3,9 +3,9 @@
         {
             "PutRequest": {
                 "Item": {
-		            "movie_id":{
-			            "S": "001"
-		             },
+		    "movie_id":{
+			"S": "001"
+		    },
                     "title":{
                         "S": "Furiosa: A Mad Max Saga"
                     },
@@ -26,9 +26,9 @@
         {
             "PutRequest": {
                 "Item": {
-		            "movie_id":{
-			            "S": "002"
-		            },
+		    "movie_id":{
+			"S": "002"
+		    },
                     "title":{
                         "S": "Dune: Part Two"
                     },
@@ -49,9 +49,9 @@
         {
             "PutRequest": {
                 "Item": {
-		            "movie_id":{
-			            "S": "003"
-		            },
+		    "movie_id":{
+		       "S": "003"
+		    },
                     "title":{
                         "S": "The Fall Guy"
                     },
@@ -72,9 +72,9 @@
         {
             "PutRequest": {
                 "Item": {
-		            "movie_id":{
-			            "S": "004"
-		            },
+		    "movie_id":{
+			"S": "004"
+		    },
                     "title":{
                         "S": "Civil War"
                     },
@@ -95,9 +95,9 @@
         {
             "PutRequest": {
                 "Item": {
-		            "movie_id":{
-			            "S": "005"
-		            },
+		    "movie_id":{
+			"S": "005"
+		    },
                     "title":{
                         "S": "Challengers"
                     },
@@ -118,9 +118,9 @@
         {
             "PutRequest": {
                 "Item": {
-		            "movie_id":{
-			            "S": "006"
-		            },
+		    "movie_id":{
+			"S": "006"
+		    },
                     "title":{
                         "S": "Godzilla x Kong: The New Empire"
                     },
@@ -141,9 +141,9 @@
         {
             "PutRequest": {
                 "Item": {
-		            "movie_id":{
-			            "S": "007"
-		            },
+		    "movie_id":{
+			 "S": "007"
+		    },
                     "title":{
                         "S": "Road House"
                     },
@@ -164,9 +164,9 @@
         {
             "PutRequest": {
                 "Item": {
-		            "movie_id":{
-			            "S": "008"
-		            },
+		    "movie_id":{
+			"S": "008"
+		    },
                     "title":{
                         "S": "Boy Kills World"
                     },
@@ -187,9 +187,9 @@
         {
             "PutRequest": {
                 "Item": {
-		            "movie_id":{
-			            "S": "009"
-		            },
+		    "movie_id":{
+			"S": "009"
+		    },
                     "title":{
                         "S": "Damsel"
                     },
@@ -210,9 +210,9 @@
         {
             "PutRequest": {
                 "Item": {
-		            "movie_id":{
-			            "S": "010"
-		            },
+		    "movie_id":{
+			"S": "010"
+		    },
                     "title":{
                         "S": "Rebel Moon - Part Two: The Scargiver"
                     },
